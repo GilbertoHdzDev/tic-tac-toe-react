@@ -1,11 +1,11 @@
 import React from "react";
-import Board from "./Board.jsx";
+import Game from "./Game.jsx";
 
 function App() {
   return (
     <>
       <h1>Tic Tac Toe</h1>
-      <Board />
+      <Game />
     </>
   );
 }
